@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\bin\Debug\AlvarezBlogDB.dacpac
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\bin\Debug\AlvarezBlogDB.dll
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\bin\Debug\AlvarezBlogDB.pdb
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\AlvarezBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\AlvarezBlogDB.dll
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\AlvarezBlogDB.pdb
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\Model.xml
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\refactor.xml
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Lenovo\source\repos\AlvarezLE2\AlvarezBlogDB\obj\Debug\predeploy.sql
